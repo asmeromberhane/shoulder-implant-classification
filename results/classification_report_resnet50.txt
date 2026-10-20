@@ -1,0 +1,14 @@
+Test accuracy: 42.22%
+Macro F1:      0.4130
+Weighted F1:   0.4359
+
+              precision    recall  f1-score   support
+
+     Cofield      0.500     0.615     0.552        13
+       Depuy      0.652     0.341     0.448        44
+     Tornier      0.136     0.273     0.182        11
+      Zimmer      0.414     0.545     0.471        22
+
+    accuracy                          0.422        90
+   macro avg      0.426     0.444     0.413        90
+weighted avg      0.509     0.422     0.436        90

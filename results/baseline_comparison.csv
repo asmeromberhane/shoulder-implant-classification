@@ -1,0 +1,4 @@
+backbone,accuracy,macro_f1,weighted_f1
+mobilenet_v2,0.4778,0.4412,0.4875
+resnet50,0.4222,0.4130,0.4359
+efficientnet_b0,0.4667,0.4225,0.4635

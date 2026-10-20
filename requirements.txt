@@ -1,0 +1,11 @@
+# Versions from the original Python 3.9 training environment; a clean install has not been tested yet.
+matplotlib==3.9.4
+numpy==2.0.2
+pandas==2.3.3
+pillow==11.3.0
+scikit-image==0.24.0
+scikit-learn==1.6.1
+seaborn==0.13.2
+torch==2.8.0
+torchvision==0.23.0
+tqdm==4.67.3

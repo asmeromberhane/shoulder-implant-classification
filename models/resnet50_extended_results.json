@@ -1,0 +1,9 @@
+{
+  "test_accuracy": 0.6111111111111112,
+  "test_macro_f1": 0.5409774436090226,
+  "test_weighted_f1": 0.6173684210526316,
+  "best_val_macro_f1": 0.5406451093951093,
+  "best_epoch": 32,
+  "epochs_run": 47,
+  "patience": 15
+}

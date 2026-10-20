@@ -1,0 +1,32 @@
+# Python environments and caches
+AsmeEnv/
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+
+# macOS and editor metadata
+.DS_Store
+__MACOSX/
+._*
+.idea/
+.vscode/
+
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Dataset, derived arrays, and model weights are regenerated or obtained separately
+/dataset/
+/splits/
+*.npy
+*.npz
+*.pth
+*.pt
+
+# Keep charts, results and models/*.json tracked (only weights are ignored).
+*.zip

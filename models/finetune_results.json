@@ -1,0 +1,17 @@
+{
+  "mobilenet_v2": {
+    "best_val_macro_f1": 0.5560170587759722,
+    "best_epoch": 16,
+    "epochs_run": 24
+  },
+  "resnet50": {
+    "best_val_macro_f1": 0.509891194373953,
+    "best_epoch": 29,
+    "epochs_run": 37
+  },
+  "efficientnet_b0": {
+    "best_val_macro_f1": 0.46182047785889757,
+    "best_epoch": 3,
+    "epochs_run": 11
+  }
+}
